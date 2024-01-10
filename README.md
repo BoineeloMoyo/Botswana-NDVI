@@ -3,8 +3,6 @@ This repository contains a script for conducting an annual animated NDVI (Normal
 
 ![ndviBW](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-26_Minimal/NDVI.gif)
 
-![ndviBW](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-26_Minimal/NDVI.gif)
-
 ## What you will need first
 
 ### 1. Define Area of Interest (AOI):
@@ -13,7 +11,8 @@ To initiate the analysis, it is imperative to accurately delineate the Area of I
 ### 2. Define Geometry Level Point:
 Establishing a geometry level point is crucial for serving as the spatial reference point for animated monthly information.
 Example:
-``` var geometryLabel: Point (23.52,-17.30)
+```
+var geometryLabel: Point (23.52,-17.30)
 type: Point
 coordinates: [23.524982828900136,-17.309520044478152]
 ```
@@ -22,7 +21,8 @@ coordinates: [23.524982828900136,-17.309520044478152]
 To enhance the visual representation of the analysis, specify a geometry gradient bar. This serves both as a spatial reference point and determines the size of the gradient legend.
 
 Example snippet:
-``` var geomeyGradientBar: Polygon, 4 vertices
+```
+var geomeyGradientBar: Polygon, 4 vertices
 type: Polygon
 coordinates: List (1 element)
 0: List (5 elements)
