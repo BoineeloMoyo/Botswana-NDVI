@@ -32,3 +32,13 @@ coordinates: List (1 element)
 3: [22.87678946952514,-26.02795337316033]
 4: [22.87678946952514,-26.500852964941146]
 ```
+
+
+### Contributing
+Contributions to this project are welcomed
+
+### License
+This project is licensed under the MIT License. Refer to the LICENSE file for details.
+
+### Acknowledgments
+Massive gratitude to Google Earth Engine for providing powerful geospatial analysis tools.
