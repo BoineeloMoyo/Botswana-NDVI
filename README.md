@@ -33,6 +33,9 @@ coordinates: List (1 element)
 4: [22.87678946952514,-26.500852964941146]
 ```
 
+Below is the same script applied to a smaller spatial area (the capital city of Botswana, Gaborone)
+![ndviGabs](https://github.com/BoineeloMoyo/Botswana-NDVI/blob/main/Data/1667855990498.gif)
+
 
 ### Contributing
 Contributions to this project are welcomed
