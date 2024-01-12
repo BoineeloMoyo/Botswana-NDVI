@@ -1,4 +1,4 @@
-# Botswana NDVI Analysis Repository
+# NDVI Time Series Analysis - Botswana
 This repository contains a script for conducting an annual animated NDVI (Normalized Difference Vegetation Index) analysis in Botswana using Google Earth Engine (GEE) using the [MODIS Terra Vegetation Indices 16-Day Global 1km dataset](https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MOD13A2). NDVI is a key indicator of vegetation health and can provide valuable insights into environmental changes over time
 
 ![ndviBW](https://github.com/BoineeloMoyo/-30DayMapChallenge_2023/blob/main/Challenge_Material/Day-26_Minimal/NDVI.gif)
