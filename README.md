@@ -42,3 +42,4 @@ This project is licensed under the MIT License. Refer to the LICENSE file for de
 
 ### Acknowledgments
 Massive gratitude to Google Earth Engine for providing powerful geospatial analysis tools.
+
